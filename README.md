@@ -6,3 +6,8 @@ https://www.amazon.com/gp/product/B01MZYYHHD/ref=ppx_yo_dt_b_search_asin_title?i
 Equivalent OLED Screen with Doc. from Sparkfun
 https://www.sparkfun.com/products/13722
 
+Microcontoller from Amazon
+https://www.amazon.com/dp/B08745JBRP?ref=emc_s_m_5_i_atc&th=1
+
+
+
