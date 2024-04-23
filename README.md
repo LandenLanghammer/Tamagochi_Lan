@@ -9,5 +9,9 @@ https://www.sparkfun.com/products/13722
 Microcontoller from Amazon
 https://www.amazon.com/dp/B08745JBRP?ref=emc_s_m_5_i_atc&th=1
 
+Microcontroller Docs
+https://wiki.seeedstudio.com/Seeeduino-XIAO/#hardware-overview
+
+
 
 
